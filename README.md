@@ -2,7 +2,7 @@ Chad Josewski
 
 I build AI tooling for engineering codebases: AEC, GIS, and modeling & simulation — the places where a wrong number is a liability, not a style issue.
 
-Thirty years across real-time 3D, XR, game development, GIS, and medical and military simulation. Hands-on: I write the code for everything I direct. Currently an AI Coding Agent Engineer in the newline AI Accelerator (Track 5), alongside an MS in Computer Science (AI) at UCF.
+Thirty years across real-time 3D, XR, game development, GIS, and medical and military simulation. Hands-on: I write the code for everything I direct. Currently an AI Coding Agent Engineer in the newline AI Accelerator (Track 5), alongside an MS in Enterprise AI at Boston University.
 
 What I’m building
 
