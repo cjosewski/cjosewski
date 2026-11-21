@@ -10,7 +10,7 @@ Herd — a cross-platform local-LLM inference server manager (Tauri · Rust · R
 A governance gateway — LangGraph orchestration with an audit trail, human-in-the-loop approval on writes, and local-vs-cloud routing policy, so engineering firms can run agents over their own code and archives on hardware they control.
 Domain adapters — an engineering-aware chunker and standards-check hooks for GIS (ArcGIS, QGIS, FME), AEC (Revit, AutoCAD, Civil 3D, IFC, OpenSees), and M&S (Unity, Unreal, Blender, FEA/CFD).
 AI-assisted end-to-end design pipeline — custom MCPs and automated functions for AEC and Digital Twins development.
-Document processing tools
+Document processing tools, RAG based help systems, CRM integrations...  end-to-end enterprise AI systems design and implementation. 
 
 
 Earlier agentic work
